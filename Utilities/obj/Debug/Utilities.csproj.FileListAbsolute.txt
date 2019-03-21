@@ -1,0 +1,6 @@
+C:\Users\Xubi\source\repos\WebApplication1\Utilities\bin\Debug\Utilities.dll
+C:\Users\Xubi\source\repos\WebApplication1\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Xubi\source\repos\WebApplication1\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+C:\Users\Xubi\source\repos\WebApplication1\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Xubi\source\repos\WebApplication1\Utilities\obj\Debug\Utilities.dll
+C:\Users\Xubi\source\repos\WebApplication1\Utilities\obj\Debug\Utilities.pdb

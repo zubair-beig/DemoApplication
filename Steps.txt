@@ -1,0 +1,7 @@
+--- Description
+1.Application follow 3 Tier Architecture.
+2. UI Tier, Business Tier and Data Access Tier
+3. i have demonstrated basics of
+ a)Authorization - Token Based.
+ b)Registering user
+ c)Login User - Gets a token which can be subsequently used to access secured resources like in this Values controller actions.
